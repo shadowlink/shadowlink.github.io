@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            GoProject
 tagline:          'A Jekyll theme'
-description:      'Un proyecto para crear una plataforma online de Go utilizando <a href="https://www.meteor.com/" target="_blank">Meteor</a>.'
+description:      'PFC sobre la creación de una plataforma online de Go utilizando <a href="https://www.meteor.com/" target="_blank">Meteor</a>.'
 url:              http://goproject.meteor.com
 baseurl:          /
 
