@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Estado actual [[cdd1f76](https://github.com/shadowlink/GoProject/commit/cdd1f7621c27cb6d2580c201cda154e755574b96)]
@@ -24,5 +24,3 @@ Como podemos ver, han habido avances.
 ## Llega Kadira
 
 Se ha añadido al proyecto de Meteor el paquete Kadira que permite monitorizar todos los parametros de la aplicación, memoria consumida, CPU, ms entre llamadas a metodos, etc.
-
-
