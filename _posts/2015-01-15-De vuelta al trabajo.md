@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Commit [[d170f9f]](https://github.com/shadowlink/GoProject/commit/d170f9f2a5ec70b3f422c4aa3c70aadae13d2a61)
@@ -43,11 +43,3 @@ Como vemos, ya podemos jugar tanto con piezas blancas como con piezas negras.
 ![](http://gyazo.com/b2ede4b634bca86674b1f264140336bf.png)
 
 Lo siguiente ya es seguir desarrollando la lógica de juego, la cual tengo ya un poco adelantada en cuanto a generación y detección de cadenas de fichas muertas, por lo que en breves habrá novedades en este sentido.
-
-
-
-
-
-
-
-
