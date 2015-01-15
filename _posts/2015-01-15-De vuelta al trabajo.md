@@ -2,7 +2,7 @@
 published: false
 ---
 
-## Build [[d170f9f]](https://github.com/shadowlink/GoProject/commit/d170f9f2a5ec70b3f422c4aa3c70aadae13d2a61)
+## Commit [[d170f9f]](https://github.com/shadowlink/GoProject/commit/d170f9f2a5ec70b3f422c4aa3c70aadae13d2a61)
 
 Tras unos meses en blanco retomo he retomado el desarrollo del proyecto a un ritmo normal. La build actual viene cargada de varias mejoras en la gestión de las partidas como ahora veremos.
 
