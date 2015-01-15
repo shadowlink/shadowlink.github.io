@@ -23,24 +23,21 @@ Por lo tanto los avances son los siguientes:
 
 Se han añadido ciertos indicadores visuales que muestran el estado de una partida
 
-http://gyazo.com/83fd0a9293a840c4b1a375dfad945a3a
+![](http://gyazo.com/83fd0a9293a840c4b1a375dfad945a3a.png)
 
 En este caso la partida ya tiene un jugador pero está abierta a que otro jugador entre en ella.
-
-gyazo.com/c289bbe9abbffd06fd5c215dc65c7390
+![](http://gyazo.com/c289bbe9abbffd06fd5c215dc65c7390.png)
 
 Aquí vemos como la partida esta completa y nos indica que es nuestra partida.
-
-gyazo.com/004cbdb19cea613a960fede23e0c0bb9
+![](http://gyazo.com/004cbdb19cea613a960fede23e0c0bb9.png)
 
 Además vemos como en el menu superior aparece un acceso directo a nuestra partida actual.
-
-http://gyazo.com/6d95b99566757089c7ecaeb1c9ce39d4
+![](http://gyazo.com/6d95b99566757089c7ecaeb1c9ce39d4.png)
 
 Como vemos, ya podemos jugar tanto con piezas blancas como con piezas negras.
 
 ### Estado del roadmap
-http://gyazo.com/b2ede4b634bca86674b1f264140336bf
+![](http://gyazo.com/b2ede4b634bca86674b1f264140336bf.png)
 
 Lo siguiente ya es seguir desarrollando la lógica de juego, la cual tengo ya un poco adelantada en cuanto a generación y detección de cadenas de fichas muertas, por lo que en breves habrá novedades en este sentido.
 
