@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Commit [[e4c859f7d8](https://github.com/shadowlink/GoProject/commit/e4c859f7d8d1e2896f3e5734a9cc9354044df96a)]
@@ -85,4 +85,3 @@ Tras haber cambiado la funcíon que cumplia nuestro anterior listado de partidas
 ![](http://gyazo.com/4922d9b0df60cfc904e17923d185312b.png)
 
 Falta añadirle opciones de busqueda y filtrado, y quizas alguna cosa mas que estoy barajando, nada definitivo aún.
-
