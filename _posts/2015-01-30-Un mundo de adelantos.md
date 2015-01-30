@@ -2,7 +2,7 @@
 published: false
 ---
 
-## Commit [e4c859f7d8](https://github.com/shadowlink/GoProject/commit/e4c859f7d8d1e2896f3e5734a9cc9354044df96a)]
+## Commit [[e4c859f7d8](https://github.com/shadowlink/GoProject/commit/e4c859f7d8d1e2896f3e5734a9cc9354044df96a)]
 
 Ha pasado algún tiempo desde la última actualización del blog. Por entonces estaba empezando a implementar cierta lógica de juego pero sin nada concreto. 
 A día de hoy la lógica de juego está implementada al 95% mas o menos. El juego ya es totalmente jugable pero queda implementar algunos detalles para que sea 100% jugable.
