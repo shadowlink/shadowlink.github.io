@@ -9,7 +9,7 @@ A día de hoy la lógica de juego está implementada al 95% mas o menos. El jueg
 Lo que falta por implementar es:
 
 - Relojes de partida, como los relojes del ajedrez
-- Poder seleccionar grupos de piedras muertos una vez finalizada la partida, esto lo explicaré posteriormente cuando comente el funcionamiento del sistema de recuento de terrirorios.
+- Poder seleccionar cadenas muertas una vez finalizada la partida, esto lo explicaré posteriormente cuando comente el funcionamiento del sistema de recuento de territorios.
 
 # Estado del roadmpap
 
@@ -19,10 +19,10 @@ Como se puede observar, hay varias tareas que han pasado a estar completadas des
 
 ## El juego!
 
-Como ya he comentado al inicio, la lógica de juego está practicamente implementada a falta de algunas características. Aún así es posible jugar una partida sin problemas.
+Como ya he comentado al inicio, la lógica de juego está practicamente implementada a falta de algunas características. Aún así, es posible jugar una partida sin problemas.
 Lo mas destacable desde la última vez, que no es poco, es lo siguiente:
 
-- Las cadenas de fichas mueren al ser rodeadas por cadenas del color rival
+- Las cadenas de fichas mueren al ser rodeadas por cadenas del color rival.
 - Al final de la partida se produce un recuento de terriotorios que asigna puntuaciones a los dos jugadores.
 
 El recuento de territorios se produce cuando el juego termina, es decir, los dos jugadores pasan turno. Tiene este aspecto.
@@ -46,12 +46,12 @@ Por lo general un humano puede saber, en función de su experiencia si una caden
 **Ejemplo:**
 ![](http://gyazo.com/e41ce27789caf1697c3a68cbd1858cc6.png)
 
-Si la partida acabase aquí ¿diríamos que la cadena de fichas blancas esta muerta? es decir ¿negras tiene alguna posibilidad mediante alguna jugada de matar a la cadena de blancas? Es dificil para un algoritmo decir eso, y lo es para un humano en función de la experiencía que tenga con el juego.
+Si la partida acabase aquí ¿diríamos que la cadena de fichas blancas esta muerta? es decir ¿negras tiene alguna posibilidad mediante alguna jugada de matar a la cadena de blancas? Es dificil para un algoritmo decidir eso, y lo es para un humano en función de la experiencía que tenga con el juego.
 Si siguiesemos jugando se daría esta situación
 
 ![](http://gyazo.com/664b46d59a6490cc1777114f58d9755f.png)
 
-Las blancas se salvan haciendo esos movimientos concretos. Pero ¿Es un algoritmo capaz de predecir eso? Tendría que buscar cualquier posible escenario en el que negras consiguiese ganar ese territorio, lo que como ya he comentado puede ser tremendamente costoso. No por nada el Go es un autentico hueso de roer para la inteligencia artificial.
+Las blancas se salvan haciendo esos movimientos concretos. Pero ¿Es un algoritmo capaz de predecir eso? Tendría que buscar cualquier posible escenario en el que negras consiguiese ganar ese territorio, lo que como ya he comentado puede ser tremendamente costoso. No por nada el Go es un autentico hueso duro de roer para la inteligencia artificial.
 
 # Chat
 
